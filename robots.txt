@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://speedsunxxp.github.io/resources-ioo1hv/sitemap.xml
